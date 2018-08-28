@@ -4,6 +4,7 @@
   "description": "Static site for tershronalds.com",
   "main": "index.js",
   "scripts": {
+    "start": "livereload ./ --debug",
     "test": "echo \"None yet\" && exit 1"
   },
   "repository": {
