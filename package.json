@@ -1,0 +1,22 @@
+{
+  "name": "tershronalds-static",
+  "version": "0.1.0",
+  "description": "Static site for tershronalds.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"None yet\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tchalvak/tershronalds-r.git"
+  },
+  "keywords": [
+    "creative"
+  ],
+  "author": "Roy R.",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/tchalvak/tershronalds-r/issues"
+  },
+  "homepage": "https://github.com/tchalvak/tershronalds-r#readme"
+}
